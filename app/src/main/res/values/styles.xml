@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="FirstAttemptTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionButtonStyle">@style/Custom.Widget.AppCompat.Light.ActionButton</item>
+    </style>
+
+    <style name="SecondAttemptTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionMenuTextAppearance">@style/Custom.TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+    </style>
+
+    <style name="Custom.Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.ActionButton">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Custom.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

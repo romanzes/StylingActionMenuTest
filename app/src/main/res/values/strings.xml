@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StylingActionMenuTest</string>
+    <string name="first_attempt">First Attempt</string>
+    <string name="second_attempt">Second Attempt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_action">Action</string>
+</resources>
