@@ -1,11 +1,11 @@
 <resources>
 
     <style name="FirstAttemptTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="android:actionButtonStyle">@style/Custom.Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionButtonStyle">@style/Custom.Widget.AppCompat.Light.ActionButton</item>
     </style>
 
     <style name="SecondAttemptTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <item name="android:actionMenuTextAppearance">@style/Custom.TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextAppearance">@style/Custom.TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
     </style>
 
     <style name="Custom.Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.ActionButton">
